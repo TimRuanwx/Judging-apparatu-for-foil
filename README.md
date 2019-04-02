@@ -1,2 +1,3 @@
 # Judging-apparatu-for-foil
-a home-made judging apparatu for foil
+A home-made judging apparatu for foil
+From SYSU
